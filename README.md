@@ -13,7 +13,7 @@ Questa è una classica implementazione del gioco Snake, realizzata interamente i
     * ⚙️ **Impostazioni:** Puoi regolare il volume degli effetti sonori.
     * 🚪 **Esci:** Per chiudere l'applicazione.
 * **Opzioni di Gioco Aggiuntive:**
-    * klasik **Classica:** La pura e semplice esperienza di Snake, dove i bordi sono un limite invalicabile.
+    * 🕹️ **Classica:** La pura e semplice esperienza di Snake, dove i bordi sono un limite invalicabile.
     * 🧱 **Ostacoli:** Una modalità con ostacoli generati casualmente sulla mappa. Un piccolo extra per variare le partite!
     * 🌌 **Senza Muri:** In questa modalità, se tocchi un bordo, riappari semplicemente dal lato opposto.
 * **Comodo Menu di Pausa:**
