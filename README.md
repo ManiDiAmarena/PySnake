@@ -1,6 +1,6 @@
 # 🐍 Un Semplice Snake Game con Pygame 🕹️
 
-Questa è una classica implementazione del gioco Snake, realizzata interamente in Python utilizzando la libreria Pygame. Un progetto divertente che include alcune utili aggiunte per migliorare l'esperienza di gioco!  sederhana (Sederhana) e divertente!
+Questa è una classica implementazione del gioco Snake, realizzata interamente in Python utilizzando la libreria Pygame. Un progetto divertente che include alcune utili aggiunte per migliorare l'esperienza di gioco!
 
 ## ✨ Cosa Troverai nel Gioco:
 
