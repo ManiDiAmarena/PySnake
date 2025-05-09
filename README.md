@@ -53,7 +53,7 @@ Questa è una classica implementazione del gioco Snake, realizzata interamente i
     * Apri un terminale nella cartella del gioco.
     * Lancia lo script:
     ```bash
-    python nome_del_tuo_file.py
+    python main.py
     ```
 5.  **File Leaderboard:**
     * Un file `leaderboard.json` verrà creato automaticamente per salvare i punteggi.
